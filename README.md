@@ -48,4 +48,4 @@
 ### ![qwe](https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png)
 
 ### Сподіваємось Луці сподобається наш ігровий сетап для гри `Valorant`
-### Загальна ціна робочого місця - _`39700грн.`_ 
+### Загальна ціна робочого місця - _`37005грн.`_ 
