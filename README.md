@@ -14,7 +14,7 @@
 |SSD [_`M.2  1TB  Apacer`_](https://hard.rozetka.com.ua/ua/apacer-ap512gas2280p4u-1/p413109990/)| 1469грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/367875204.jpg"> |
 |Корпус [_`2E Basis RD860-3U`_](https://hard.rozetka.com.ua/ua/2e-2e-rd860-3u/p316639822/) | 969грн.|<img width = "100" src = "https://2e.ua/wp-content/uploads/2025/01/645b4e66110de_2e-rd860-3u_1-600x349.jpg"> |
 |Монітор [_`23.8" ACER KA242YEBI`_](https://hard.rozetka.com.ua/ua/acer-umqx2eee05/p411520983/) | 3440грн.|<img width = "100" src = "https://content2.rozetka.com.ua/goods/images/big/423866365.jpg"> |
-|Миша [_`Logitech G102 Lightsync Blue`_](Logitech G102 Lightsync Blue) | 1449грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
+|Миша [_`Logitech G102 Lightsync Blue`_](https://rozetka.com.ua/ua/logitech_910_005801/p247247869/) | 1449грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
 |Клавіатура [_`HATOR Rockfall 2`_](https://rozetka.com.ua/ua/hator-htk-521/p404678649/) | 1899грн.|<img width = "100" src = "https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png"> |
 
 # Більш детально про комп'ютер
