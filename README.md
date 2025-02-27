@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7d83e586-c56a-4535-af09-dd06c70b67de)![image](https://github.com/user-attachments/assets/da8b2ed6-f14d-4632-8761-3e5ea104fe9a)![image](https://github.com/user-attachments/assets/105c8a46-cc7b-4ea8-890d-48714a03dff6)#  Комп'ютер [_`Luka Doncic`_](https://www.instagram.com/lukadoncic/)
+#  Комп'ютер [_`Luka Doncic`_](https://www.instagram.com/lukadoncic/)
 ### ![asd](https://mavsshop.com/cdn/shop/collections/MIA_DAL_010121_James839_large.jpg?v=1734348916)
 
 ### Нещодавно, Лука попросив зібрати для нього ігровий сетап для його улюбленої гри `Valorant`.
@@ -7,15 +7,17 @@
 |Компонент|Ціна|Зображення|
 |---------|----|----------|
 |Процесор _`Intel Core i5-12400F 4.4GHz`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
-|Процесор _`Asus Nvidia 3060 12GB OC`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/8099/gallery/100529/600_gallery_1663338139584304_0.webp"> |
-|Процесор _`Asus Prime B660M-A D4-CSM`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/15614/gallery/186610/350_gallery_1695297825961486_0.webp"> |
-|Процесор _`Kingston FURY DDR4 2x16GB  3200MHz`_| 5129грн.|<img width = "100" src = "https://img.telemart.ua/374725-526249-product_popup/kingston-ddr4-32gb-2x16gb-3200mhz-fury-beast-black-kf432c16bb1k232.jpg"> |
-|Процесор _`600Вт  GameMax`_| 5129грн.|<img width = "100" src = "https://content1.rozetka.com.ua/goods/images/big/511003243.jpg"> |
-|Процесор _`M.2  1TB  Apacer`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/367875204.jpg"> |
-|Процесор _`2E Basis RD860-3U`_| 5129грн.|<img width = "100" src = "https://2e.ua/wp-content/uploads/2025/01/645b4e66110de_2e-rd860-3u_1-600x349.jpg"> |
-|Процесор _`23.8" ACER KA242YEBI`_| 5129грн.|<img width = "100" src = "https://content2.rozetka.com.ua/goods/images/big/423866365.jpg"> |
-|Процесор _`Logitech G102 Lightsync Blue`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
-|Процесор _`HATOR Rockfall 2`_| 5129грн.|<img width = "100" src = "https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png"> |
+|Відеокарта _`Asus Nvidia 3060 12GB OC`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/8099/gallery/100529/600_gallery_1663338139584304_0.webp"> |
+|Материнська плата _`Asus Prime B660M-A D4-CSM`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/15614/gallery/186610/350_gallery_1695297825961486_0.webp"> |
+|Оперативна пам'ять _`Kingston FURY DDR4 2x16GB  3200MHz`_| 5129грн.|<img width = "100" src = "https://img.telemart.ua/374725-526249-product_popup/kingston-ddr4-32gb-2x16gb-3200mhz-fury-beast-black-kf432c16bb1k232.jpg"> |
+|Блок живлення _`600Вт  GameMax`_| 5129грн.|<img width = "100" src = "https://content1.rozetka.com.ua/goods/images/big/511003243.jpg"> |
+|SSD _`M.2  1TB  Apacer`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/367875204.jpg"> |
+|Корпус _`2E Basis RD860-3U`_| 5129грн.|<img width = "100" src = "https://2e.ua/wp-content/uploads/2025/01/645b4e66110de_2e-rd860-3u_1-600x349.jpg"> |
+|Монітор _`23.8" ACER KA242YEBI`_| 5129грн.|<img width = "100" src = "https://content2.rozetka.com.ua/goods/images/big/423866365.jpg"> |
+|Миша _`Logitech G102 Lightsync Blue`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
+|Клавіатура _`HATOR Rockfall 2`_| 5129грн.|<img width = "100" src = "https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png"> |
+
+# Більш детально про комп'ютер
 
 ###  Процесор
 ##### Оскільки, гра `Valorant` є вимогливою щодо процесора - наш ПК буде базуватись на ньому.
