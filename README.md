@@ -7,6 +7,15 @@
 |Компонент|Ціна|Зображення|
 |---------|----|----------|
 |Процесор _`Intel Core i5-12400F 4.4GHz`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`Asus Nvidia 3060 12GB OC`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`Asus Prime B660M-A D4-CSM`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`Kingston FURY DDR4 2x16GB  3200MHz`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`600Вт  GameMax`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`M.2  1TB  Apacer`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`2E Basis RD860-3U`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`23.8" ACER KA242YEBI`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`Logitech G102 Lightsync Blue`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Процесор _`HATOR Rockfall 2`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
 
 ###  Процесор
 ##### Оскільки, гра `Valorant` є вимогливою щодо процесора - наш ПК буде базуватись на ньому.
