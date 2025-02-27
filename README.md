@@ -6,16 +6,16 @@
 
 |Компонент|Ціна|Зображення|
 |---------|----|----------|
-|Процесор _`Intel Core i5-12400F 4.4GHz`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
-|Відеокарта _`Asus Nvidia 3060 12GB OC`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/8099/gallery/100529/600_gallery_1663338139584304_0.webp"> |
-|Материнська плата _`Asus Prime B660M-A D4-CSM`_| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/15614/gallery/186610/350_gallery_1695297825961486_0.webp"> |
-|Оперативна пам'ять _`Kingston FURY DDR4 2x16GB  3200MHz`_| 5129грн.|<img width = "100" src = "https://img.telemart.ua/374725-526249-product_popup/kingston-ddr4-32gb-2x16gb-3200mhz-fury-beast-black-kf432c16bb1k232.jpg"> |
-|Блок живлення _`600Вт  GameMax`_| 5129грн.|<img width = "100" src = "https://content1.rozetka.com.ua/goods/images/big/511003243.jpg"> |
-|SSD _`M.2  1TB  Apacer`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/367875204.jpg"> |
-|Корпус _`2E Basis RD860-3U`_| 5129грн.|<img width = "100" src = "https://2e.ua/wp-content/uploads/2025/01/645b4e66110de_2e-rd860-3u_1-600x349.jpg"> |
-|Монітор _`23.8" ACER KA242YEBI`_| 5129грн.|<img width = "100" src = "https://content2.rozetka.com.ua/goods/images/big/423866365.jpg"> |
-|Миша _`Logitech G102 Lightsync Blue`_| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
-|Клавіатура _`HATOR Rockfall 2`_| 5129грн.|<img width = "100" src = "https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png"> |
+|Процесор [_`Intel Core i5-12400F 4.4GHz`_]()| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/6953/gallery/89422/600_products_1668068286376556_0.webp"> |
+|Відеокарта [_`Asus Nvidia 3060 12GB OC`_](https://wo.ua/ua/videokarta-asus-geforce-rtx-3060-12gb-gddr6-dual-oc-v2-dual-rtx3060-o12g-v2-lhr.html?srsltid=AfmBOoqVuAPIouTEUtKUGSWSw1tGaFNP6Nsw_aaaKpcaRlz6-fTh0BN4)| 13143грн.|<img width = "100" src = "https://artline.ua/storage/images/products/8099/gallery/100529/600_gallery_1663338139584304_0.webp"> |
+|Материнська плата [_`Asus Prime B660M-A D4-CSM`_]()| 5129грн.|<img width = "100" src = "https://artline.ua/storage/images/products/15614/gallery/186610/350_gallery_1695297825961486_0.webp"> |
+|Оперативна пам'ять [_`Kingston FURY DDR4 2x16GB  3200MHz`_]() | 5129грн.|<img width = "100" src = "https://img.telemart.ua/374725-526249-product_popup/kingston-ddr4-32gb-2x16gb-3200mhz-fury-beast-black-kf432c16bb1k232.jpg"> |
+|Блок живлення [_`600Вт  GameMax`_]()| 5129грн.|<img width = "100" src = "https://content1.rozetka.com.ua/goods/images/big/511003243.jpg"> |
+|SSD [_`M.2  1TB  Apacer`_]()| 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/367875204.jpg"> |
+|Корпус [_`2E Basis RD860-3U`_]() | 5129грн.|<img width = "100" src = "https://2e.ua/wp-content/uploads/2025/01/645b4e66110de_2e-rd860-3u_1-600x349.jpg"> |
+|Монітор [_`23.8" ACER KA242YEBI`_]() | 5129грн.|<img width = "100" src = "https://content2.rozetka.com.ua/goods/images/big/423866365.jpg"> |
+|Миша [_`Logitech G102 Lightsync Blue`_]() | 5129грн.|<img width = "100" src = "https://content.rozetka.com.ua/goods/images/big/246091335.jpg"> |
+|Клавіатура [_`HATOR Rockfall 2`_]() | 5129грн.|<img width = "100" src = "https://hator.gg/wp-content/uploads/products/keyboards/rockfall-2-tkl-mecha/original/rockfall-2-tkl-mecha-black_3.png"> |
 
 # Більш детально про комп'ютер
 
